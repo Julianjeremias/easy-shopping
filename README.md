@@ -1,8 +1,8 @@
 <h1>Easy Shopping</h1>
 <br>
-<h2>Esse foi um desafio de responsividade em CSS</h2>
+<h2>Esse foi um projeto de responsividade em CSS</h2>
 <br>
-<p>Nesse desafio pude testar os conhecimentos adquiridos nas aulas de CSS, sobretudo: a parte de deixar o site responsivo, para que o usuário tenha uma boa experiência em diferentes tamanhos de tela</p>
+<p>Nesse projeto aprendi a deixar o site responsivo, para que o usuário tenha uma boa experiência em diferentes tamanhos de tela</p>
 <br>
 <h3>Técnologias utilizadas:</h3>
 <br>
