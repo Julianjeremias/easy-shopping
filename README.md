@@ -14,4 +14,7 @@
 <br>
 <img src="https://github.com/Julianjeremias/easy-shopping/blob/main/Img/desktop.png.jpeg?raw=true" alt="desktop-img" />
 <br>
+<h2>Print da tela mobile</h2>
+<br>
+<img src="https://github.com/Julianjeremias/easy-shopping/blob/main/Img/mobile.png.jpeg?raw=true" alt="mobile-img" />
 
