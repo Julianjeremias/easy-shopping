@@ -9,3 +9,9 @@
 <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white" alt="html-logo" />
 <br>
 <img src="https://img.shields.io/badge/CSS-663399.svg?style=for-the-badge&logo=CSS&logoColor=white" alt="css-logo" />
+<br>
+<h2>Print da tela do desktop</h2>
+<br>
+<img src="https://github.com/Julianjeremias/easy-shopping/blob/main/Img/desktop.png.jpeg?raw=true" alt="desktop-img" />
+<br>
+
